@@ -5,7 +5,7 @@ WDwrap is a Python wrapper for the Wilson–Devinney (WD) code, designed to stre
 WDwrap integrates seamlessly with contemporary Python tools, including parallel execution and Bayesian inference via MCMC, allowing users to explore complex parameter spaces and derive robust posterior distributions for orbital and stellar parameters.
 
 <p align="center">
-  <img src="WDwrap.png" alt="" width="300">
+  <img src="Wdwrap.png" alt="" width="300">
 </p>
 ------------------------------------------------------------
 FEATURES
